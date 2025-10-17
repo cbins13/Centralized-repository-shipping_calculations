@@ -20,3 +20,5 @@ total_price = quantity * unit_price
 
 # Display the result
 print(f"Total Price: {total_price} USD")
+
+# Here is another update by <your GitHub username>
